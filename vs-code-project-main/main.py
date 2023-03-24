@@ -1,5 +1,7 @@
 import pz
 import pz2
+import Class
+
 
 #pz.pz1()
 
@@ -12,4 +14,7 @@ import pz2
 # pz.pz6() 
 
 
-pz2.pz3()
+# pz2.pz3()
+
+
+
